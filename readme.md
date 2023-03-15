@@ -1,4 +1,4 @@
---Task 6
+# Task 6
 Start from https://github.com/matgargano/classwork-20230308
 
 Finish up the Book component. Make the proper request to the book API, e.g., https://api.matgargano.com/api/books/1003, and output the individual book data.
